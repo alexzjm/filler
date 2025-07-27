@@ -25,3 +25,10 @@ Run the game using:
 ```bash
 python main.py
 ```
+
+You'll play as both Player 1 and Player 2 via the terminal.
+
+## Notes
+
+- Works best in a terminal that supports ANSI color codes
+- No third-party libraries required
